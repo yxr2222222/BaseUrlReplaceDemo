@@ -1,0 +1,3 @@
+rootProject.name = "BaseUrlReplaceDemo"
+include ':app'
+include ':BaseUrlReplace'
